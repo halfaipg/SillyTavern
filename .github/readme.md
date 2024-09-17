@@ -26,8 +26,8 @@ SillyTavern is a fork of TavernAI 1.2.8 which is under more active development a
 
 ## Screenshots
 
-<img width="400" alt="image" src="https://github.com/SillyTavern/SillyTavern/assets/61471128/e902c7a2-45a6-4415-97aa-c59c597669c1"> 
-<img width="400" alt="image" src="https://github.com/SillyTavern/SillyTavern/assets/61471128/f8a79c47-4fe9-4564-9e4a-bf247ed1c961">
+<img width="400" alt="image" src="https://github.com/halfaipg/SillyTavern/assets/61471128/e902c7a2-45a6-4415-97aa-c59c597669c1"> 
+<img width="400" alt="image" src="https://github.com/halfaipg/SillyTavern/assets/61471128/f8a79c47-4fe9-4564-9e4a-bf247ed1c961">
 
 ### Branches
 
@@ -57,7 +57,7 @@ Or get in touch with the developers directly:
 
 * Discord: cohee or rossascends
 * Reddit: [/u/RossAscends](https://www.reddit.com/user/RossAscends/) or [/u/sillylossy](https://www.reddit.com/user/sillylossy/)
-* [Post a GitHub issue](https://github.com/SillyTavern/SillyTavern/issues)
+* [Post a GitHub issue](https://github.com/halfaipg/SillyTavern/issues)
 
 ## This version includes
 
@@ -74,7 +74,7 @@ Or get in touch with the developers directly:
 
 ## Extensions
 
-SillyTavern has extensibility support, with some additional AI modules hosted via [SillyTavern Extras API](https://github.com/SillyTavern/SillyTavern-extras)
+SillyTavern has extensibility support, with some additional AI modules hosted via [SillyTavern Extras API](https://github.com/halfaipg/SillyTavern-extras)
 
 * Author's Note / Character Bias
 * Character emotional expressions (sprites)
@@ -137,8 +137,8 @@ A full list of included extensions and tutorials on how to use them can be found
   5. Open a Command Prompt inside that folder by clicking in the 'Address Bar' at the top, typing `cmd`, and pressing Enter.
   6. Once the black box (Command Prompt) pops up, type ONE of the following into it and press Enter:
 
-- for Release Branch: `git clone https://github.com/SillyTavern/SillyTavern -b release`
-- for Staging Branch: `git clone https://github.com/SillyTavern/SillyTavern -b staging`
+- for Release Branch: `git clone https://github.com/halfaipg/SillyTavern -b release`
+- for Staging Branch: `git clone https://github.com/halfaipg/SillyTavern -b staging`
 
   7. Once everything is cloned, double-click `Start.bat` to make NodeJS install its requirements.
   8. The server will then start, and SillyTavern will pop up in your browser.
@@ -150,7 +150,7 @@ cmd /c winget install -e --id Git.Git
 ```
 2. On your keyboard: press **`WINDOWS + E`** to open File Explorer, then navigate to the folder where you want to install the launcher. Once in the desired folder, type `cmd` into the address bar and press enter. Then, run the following command:
 ```shell
-git clone https://github.com/SillyTavern/SillyTavern-Launcher.git && cd SillyTavern-Launcher && start installer.bat
+git clone https://github.com/halfaipg/SillyTavern-Launcher.git && cd SillyTavern-Launcher && start installer.bat
 ```
 
 ## Installing via GitHub Desktop
@@ -158,7 +158,7 @@ git clone https://github.com/SillyTavern/SillyTavern-Launcher.git && cd SillyTav
   1. Install [NodeJS](https://nodejs.org/en) (latest LTS version is recommended)
   2. Install [GitHub Desktop](https://central.github.com/deployments/desktop/desktop/latest/win32)
   3. After installing GitHub Desktop, click on `Clone a repository from the internet....` (Note: You **do NOT need** to create a GitHub account for this step)
-  4. On the menu, click the URL tab, enter this URL `https://github.com/SillyTavern/SillyTavern`, and click Clone. You can change the Local path to change where SillyTavern is going to be downloaded.
+  4. On the menu, click the URL tab, enter this URL `https://github.com/halfaipg/SillyTavern`, and click Clone. You can change the Local path to change where SillyTavern is going to be downloaded.
   6. To open SillyTavern, use Windows Explorer to browse into the folder where you cloned the repository. By default, the repository will be cloned here: `C:\Users\[Your Windows Username]\Documents\GitHub\SillyTavern`
   7. Double-click on the `start.bat` file. (Note: the `.bat` part of the file name might be hidden by your OS, in that case, it will look like a file called "`Start`". This is what you double-click to run SillyTavern)
   8. After double-clicking, a large black command console window should open and SillyTavern will begin to install what it needs to operate.
@@ -172,8 +172,8 @@ For MacOS / Linux all of these will be done in a Terminal.
 1. Install git and nodeJS (the method for doing this will vary depending on your OS)
 2. Clone the repo
 
-- for Release Branch: `git clone https://github.com/SillyTavern/SillyTavern -b release`
-- for Staging Branch: `git clone https://github.com/SillyTavern/SillyTavern -b staging`
+- for Release Branch: `git clone https://github.com/halfaipg/SillyTavern -b release`
+- for Staging Branch: `git clone https://github.com/halfaipg/SillyTavern -b staging`
 
 3. `cd SillyTavern` to navigate into the install folder.
 4. Run the `start.sh` script with one of these commands:
@@ -187,7 +187,7 @@ For MacOS / Linux all of these will be done in a Terminal.
 1. Open your favorite terminal and install git
 2. Git clone the Sillytavern-Launcher with: 
 ```shell
-git clone https://github.com/SillyTavern/SillyTavern-Launcher.git && cd SillyTavern-Launcher
+git clone https://github.com/halfaipg/SillyTavern-Launcher.git && cd SillyTavern-Launcher
 ```
 3. Start the installer.sh with: 
 ```shell
@@ -209,7 +209,7 @@ brew install git
 ```
 3. Git clone the Sillytavern-Launcher with: 
 ```shell
-git clone https://github.com/SillyTavern/SillyTavern-Launcher.git && cd SillyTavern-Launcher
+git clone https://github.com/halfaipg/SillyTavern-Launcher.git && cd SillyTavern-Launcher
 ```
 4. Start the installer.sh with: 
 ```shell
@@ -413,7 +413,7 @@ GNU Affero General Public License for more details.**
 
 <!-- LINK GROUP -->
 [back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square
-[cover]: https://github.com/SillyTavern/SillyTavern/assets/18619528/c2be4c3f-aada-4f64-87a3-ae35a68b61a4
+[cover]: https://github.com/halfaipg/SillyTavern/assets/18619528/c2be4c3f-aada-4f64-87a3-ae35a68b61a4
 [discord-link]: https://discord.gg/sillytavern
 [discord-shield]: https://img.shields.io/discord/1100685673633153084?color=5865F2&label=discord&labelColor=black&logo=discord&logoColor=white&style=flat-square
 [discord-shield-badge]: https://img.shields.io/discord/1100685673633153084?color=5865F2&label=discord&labelColor=black&logo=discord&logoColor=white&style=for-the-badge

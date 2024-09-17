@@ -202,7 +202,7 @@ export function isWebLlmSupported() {
                 timeOut: 0,
                 extendedTimeOut: 0,
                 preventDuplicates: true,
-                onclick: () => openThirdPartyExtensionMenu('https://github.com/SillyTavern/Extension-WebLLM'),
+                onclick: () => openThirdPartyExtensionMenu('https://github.com/halfaipg/Extension-WebLLM'),
             });
             sessionStorage.setItem(warningKey, '1');
         }

@@ -117,7 +117,7 @@ function downloadAssetsList(url) {
                         element.append(label);
 
                         //if (DEBUG_TONY_SAMA_FORK_MODE)
-                        //    asset["url"] = asset["url"].replace("https://github.com/SillyTavern/","https://github.com/Tony-sama/"); // DBG
+                        //    asset["url"] = asset["url"].replace("https://github.com/halfaipg/","https://github.com/Tony-sama/"); // DBG
 
                         console.debug(DEBUG_PREFIX, 'Checking asset', asset['id'], asset['url']);
 

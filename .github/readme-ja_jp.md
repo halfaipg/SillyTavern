@@ -1,6 +1,6 @@
 [English](readme.md) | [中文](readme-zh_cn.md) | 日本語 | [Русский](readme-ru_ru.md)
 
-![SillyTavern-Banner](https://github.com/SillyTavern/SillyTavern/assets/18619528/c2be4c3f-aada-4f64-87a3-ae35a68b61a4)
+![SillyTavern-Banner](https://github.com/halfaipg/SillyTavern/assets/18619528/c2be4c3f-aada-4f64-87a3-ae35a68b61a4)
 
 モバイルデバイスにも適したレイアウト・マルチAPI（KoboldAI/CPP、Horde、NovelAI、Ooba、OpenAI、OpenRouter、Claude、Scale）、VN ライクな Waifu モード、Stable Diffusion、TTS、WorldInfo（伝承本）、カスタマイズ可能なUI、自動翻訳、大量のプロンプトオプション＋サードパーティの拡張機能をインストールする機能
 
@@ -59,7 +59,7 @@ Tavern は単なるフロントエンドのUIであり、必要なハードウ�
 
 * Discord: cohee または rossascends
 * Reddit: /u/RossAscends または /u/sillylossy
-* [GitHub issue を投稿](https://github.com/SillyTavern/SillyTavern/issues)
+* [GitHub issue を投稿](https://github.com/halfaipg/SillyTavern/issues)
 
 ## このバージョンには以下のコードが含まれます
 
@@ -76,7 +76,7 @@ Tavern は単なるフロントエンドのUIであり、必要なハードウ�
 
 ## 拡張機能
 
-SillyTavern は拡張できるようになっており、[SillyTavern Extras API](https://github.com/SillyTavern/SillyTavern-extras) でいくつかの追加AIモジュールをホストしています
+SillyTavern は拡張できるようになっており、[SillyTavern Extras API](https://github.com/halfaipg/SillyTavern-extras) でいくつかの追加AIモジュールをホストしています
 
 * 作者ノート/キャラクターバイアス
 * キャラクターの感情表現（スプライト）
@@ -146,8 +146,8 @@ Git 経由でのインストール（更新を容易にするため推奨）
   5. 上部のアドレスバーをクリックし、`cmd` と入力して Enter キーを押し、そのフォルダーの中にコマンドプロンプトを開きます。
   6. 黒いボックス（コマンドプロンプト）がポップアップしたら、そこに以下のいずれかを入力し、Enter を押します:
 
-* Release ブランチの場合: `git clone https://github.com/SillyTavern/SillyTavern -b release`
-* Staging ブランチの場合: `git clone https://github.com/SillyTavern/SillyTavern -b staging`
+* Release ブランチの場合: `git clone https://github.com/halfaipg/SillyTavern -b release`
+* Staging ブランチの場合: `git clone https://github.com/halfaipg/SillyTavern -b staging`
 
   7. すべてをクローンしたら、`Start.bat` をダブルクリックして、NodeJS に要件をインストールさせる。
   8. サーバーが起動し、SillyTavern がブラウザにポップアップ表示されます。
@@ -155,7 +155,7 @@ Git 経由でのインストール（更新を容易にするため推奨）
 ZIP ダウンロードによるインストール（推奨しない）
 
   1. [NodeJS](https://nodejs.org/en) をインストールする(最新の LTS 版を推奨)
-  2. GitHub のリポジトリから zip をダウンロードする。(`ソースコード(zip)` は [Releases](https://github.com/SillyTavern/SillyTavern/releases/latest) から入手)
+  2. GitHub のリポジトリから zip をダウンロードする。(`ソースコード(zip)` は [Releases](https://github.com/halfaipg/SillyTavern/releases/latest) から入手)
   3. お好きなフォルダに解凍してください
   4. `Start.bat` をダブルクリックまたはコマンドラインで実行する。
   5. サーバーが準備できれば、ブラウザのタブを開きます。

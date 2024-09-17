@@ -1,6 +1,6 @@
 [English](readme.md) | 中文 | [日本語](readme-ja_jp.md) | [Русский](readme-ru_ru.md)
 
-![image](https://github.com/SillyTavern/SillyTavern/assets/18619528/c2be4c3f-aada-4f64-87a3-ae35a68b61a4)
+![image](https://github.com/halfaipg/SillyTavern/assets/18619528/c2be4c3f-aada-4f64-87a3-ae35a68b61a4)
 
 移动设备界面友好，多种人工智能服务或模型支持（KoboldAI/CPP, Horde, NovelAI, Ooba, OpenAI, OpenRouter, Claude, Scale），类似 Galgame 的 老 婆 模 式，Horde SD，文本系统语音生成，世界信息（Lorebooks），可定制的界面，自动翻译，和比你所需要的更多的 Prompt。附带扩展服务，支持文本绘画生成与语音生成和基于向量数据库 的聊天信息总结。
 
@@ -55,7 +55,7 @@ SillyTavern 本身并无用处，因为它只是一个用户聊天界面。你�
 
 * Discord: cohee 或 rossascends
 * Reddit：/u/RossAscends 或 /u/sillylossy
-* [发布 GitHub 问题](https://github.com/SillyTavern/SillyTavern/issues)
+* [发布 GitHub 问题](https://github.com/halfaipg/SillyTavern/issues)
 
 ## 此版本包括
 
@@ -73,7 +73,7 @@ SillyTavern 本身并无用处，因为它只是一个用户聊天界面。你�
 
 ## 扩展
 
-SillyTavern 支持扩展服务，一些额外的人工智能模块可通过 [SillyTavern Extras API](https://github.com/SillyTavern/SillyTavern-extras) 提供。
+SillyTavern 支持扩展服务，一些额外的人工智能模块可通过 [SillyTavern Extras API](https://github.com/halfaipg/SillyTavern-extras) 提供。
 
 * 作者注释/角色偏见
 * 角色情绪识别
@@ -143,8 +143,8 @@ SillyTavern 支持扩展服务，一些额外的人工智能模块可通过 [Sil
   5. 点击顶部的 "地址栏"，在该文件夹内打开命令提示符，输入 `cmd`，然后按回车。
   6. 弹出黑框（CMD 命令提示符）后，键入以下其中一项并按 Enter：
 
-* 稳定分支：`git clone https://github.com/SillyTavern/SillyTavern -b release`
-* 开发分支： `git clone https://github.com/SillyTavern/SillyTavern -b staging`
+* 稳定分支：`git clone https://github.com/halfaipg/SillyTavern -b release`
+* 开发分支： `git clone https://github.com/halfaipg/SillyTavern -b staging`
 
   7. 等待 Git 克隆完成后，双击文件夹中的 `Start.bat` 将启动 NodeJS 并开始自动安装需要的软件包。
   8. 然后 SillyTavern 服务就会自动启动，同时在浏览器新标签页中自动打开。
@@ -152,7 +152,7 @@ SillyTavern 支持扩展服务，一些额外的人工智能模块可通过 [Sil
 通过压缩包下载安装（不推荐）
 
   1. 安装 [NodeJS](https://nodejs.org/en)（建议使用最新的 LTS 版本）
-  2. 从该 GitHub 仓库下载压缩包。(从 [Releases](https://github.com/SillyTavern/SillyTavern/releases/latest) 获取 "Source code（zip）"）。
+  2. 从该 GitHub 仓库下载压缩包。(从 [Releases](https://github.com/halfaipg/SillyTavern/releases/latest) 获取 "Source code（zip）"）。
   3. 将压缩包解压到您选择的文件夹中
   4. 双击或在命令行中运行 `Start.bat`。
   5. SillyTavern 服务自动为你准备好一切后，会在你的浏览器中打开一个新标签页。

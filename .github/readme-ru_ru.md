@@ -26,8 +26,8 @@ SillyTavern — это форк версии TavernAI 1.2.8, который ра
 
 ## Скриншоты
 
-<img width="400" alt="image" src="https://github.com/SillyTavern/SillyTavern/assets/61471128/e902c7a2-45a6-4415-97aa-c59c597669c1"> 
-<img width="400" alt="image" src="https://github.com/SillyTavern/SillyTavern/assets/61471128/f8a79c47-4fe9-4564-9e4a-bf247ed1c961">
+<img width="400" alt="image" src="https://github.com/halfaipg/SillyTavern/assets/61471128/e902c7a2-45a6-4415-97aa-c59c597669c1"> 
+<img width="400" alt="image" src="https://github.com/halfaipg/SillyTavern/assets/61471128/f8a79c47-4fe9-4564-9e4a-bf247ed1c961">
 
 ### Ветки
 
@@ -57,7 +57,7 @@ SillyTavern — это просто интерфейс, поэтому запу�
 
 * Discord: cohee или rossascends
 * Reddit: [/u/RossAscends](https://www.reddit.com/user/RossAscends/) или [/u/sillylossy](https://www.reddit.com/user/sillylossy/)
-* [Запостить issue на GitHub](https://github.com/SillyTavern/SillyTavern/issues)
+* [Запостить issue на GitHub](https://github.com/halfaipg/SillyTavern/issues)
 
 ## Эта версия включает
 
@@ -74,7 +74,7 @@ SillyTavern — это просто интерфейс, поэтому запу�
 
 ## Расширения
 
-SillyTavern поддерживает расширения, при этом некоторые из ИИ-модулей работают через [SillyTavern Extras API](https://github.com/SillyTavern/SillyTavern-extras)
+SillyTavern поддерживает расширения, при этом некоторые из ИИ-модулей работают через [SillyTavern Extras API](https://github.com/halfaipg/SillyTavern-extras)
 
 * Заметки автора / Смещение характера
 * Эмоции для персонажей (спрайты)
@@ -137,8 +137,8 @@ SillyTavern поддерживает расширения, при этом не�
   5. Откройте командную строку. Для этого нажмите на адресную строку (сверху), введите `cmd` и нажмите Enter.
   6. Когда появится чёрное окошко (командная строка), введите ОДНУ из перечисленных ниже команд:
 
-- для ветки release: `git clone https://github.com/SillyTavern/SillyTavern -b release`
-- для ветки staging: `git clone https://github.com/SillyTavern/SillyTavern -b staging`
+- для ветки release: `git clone https://github.com/halfaipg/SillyTavern -b release`
+- для ветки staging: `git clone https://github.com/halfaipg/SillyTavern -b staging`
 
   7. Когда клонирование закончится, дважды щёлкните по `Start.bat`, чтобы установить зависимости для NodeJS.
   8. После этого сервер запустится, и SillyTavern откроется в вашем браузере.
@@ -147,7 +147,7 @@ SillyTavern поддерживает расширения, при этом не�
  1. Установите [Git for Windows](https://gitforwindows.org/)
  2. Откройте Проводник (`Win+E`) и создайте или выберите папку, в которую будет установлен лаунчер
  3. Откройте командную строку. Для этого нажмите на адресную строку (сверху), введите `cmd` и нажмите Enter.
- 4. Когда появится чёрное окошко, введите следующую команду: `git clone https://github.com/SillyTavern/SillyTavern-Launcher.git`
+ 4. Когда появится чёрное окошко, введите следующую команду: `git clone https://github.com/halfaipg/SillyTavern-Launcher.git`
  5. Дважды щёлкните по `installer.bat` и выберите, что именно хотите установить
  6. После завершения установки дважды щёлкните по `launcher.bat`
 
@@ -156,7 +156,7 @@ SillyTavern поддерживает расширения, при этом не�
   1. Установите [NodeJS](https://nodejs.org/en) (latest LTS version is recommended)
   2. Установите [GitHub Desktop](https://central.github.com/deployments/desktop/desktop/latest/win32)
   3. После завершения установки GitHub Desktop, нажмите `Clone a repository from the internet....` (обратите внимание: для этого шага **НЕ требуется** аккаунт на GitHub)
-  4. В меню перейдите на вкладку URL, введите адрес `https://github.com/SillyTavern/SillyTavern`, и нажмите Clone. В поле Local path можно изменить директорию, в которую будет загружена SillyTavern.
+  4. В меню перейдите на вкладку URL, введите адрес `https://github.com/halfaipg/SillyTavern`, и нажмите Clone. В поле Local path можно изменить директорию, в которую будет загружена SillyTavern.
   6. Чтобы запустить SillyTavern, откройте Проводник и перейдите в выбранную на предыдущем шаге папку. По умолчанию репозиторий будет склонирован сюда: `C:\Users\[Имя пользователя]\Documents\GitHub\SillyTavern`
   7. Дважды щёлкните по файлу `start.bat`. (обратите внимание: окончание `.bat` может быть скрыто настройками вашей ОС. Таким образом, имя файла будет выглядеть как "`Start`". Дважды щёлкните по нему, чтобы запустить SillyTavern)
   8. После того, как вы дважды щёлкнули по файлу, должно открыться чёрное окошко, и SillyTavern начнёт устанавливать свои зависимости.
@@ -170,8 +170,8 @@ SillyTavern поддерживает расширения, при этом не�
 1. Установите git и nodeJS (как именно - зависит от вашей ОС)
 2. Клонируйте репозиторий
 
-- для ветки release: `git clone https://github.com/SillyTavern/SillyTavern -b release`
-- для ветки staging: `git clone https://github.com/SillyTavern/SillyTavern -b staging`
+- для ветки release: `git clone https://github.com/halfaipg/SillyTavern -b release`
+- для ветки staging: `git clone https://github.com/halfaipg/SillyTavern -b staging`
 
 3. Перейдите в папку установки с помощью `cd SillyTavern`.
 4. Запустите скрипт `start.sh` с помощью одной из команд:
@@ -183,7 +183,7 @@ SillyTavern поддерживает расширения, при этом не�
 
 ### Для пользователей Linux
 1. Откройте любимый терминал и установите git
-2. Загрузите Sillytavern Launcher с помощью команды: `git clone https://github.com/SillyTavern/SillyTavern-Launcher.git`
+2. Загрузите Sillytavern Launcher с помощью команды: `git clone https://github.com/halfaipg/SillyTavern-Launcher.git`
 3. Перейдите в SillyTavern-Launcher: `cd SillyTavern-Launcher`
 4. Запустите лаунчер установки: `chmod +x install.sh && ./install.sh`, затем выберите, что конкретно хотите установить
 5. После завершения установки, запустите лаунчер следующей командой: `chmod +x launcher.sh && ./launcher.sh`
@@ -191,7 +191,7 @@ SillyTavern поддерживает расширения, при этом не�
 ### Для пользователей Mac
 1. Откройте терминал и установите brew: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 2. Затем установите git: `brew install git`
-3. Загрузите Sillytavern Launcher: `git clone https://github.com/SillyTavern/SillyTavern-Launcher.git`
+3. Загрузите Sillytavern Launcher: `git clone https://github.com/halfaipg/SillyTavern-Launcher.git`
 4. Перейдите в SillyTavern-Launcher: `cd SillyTavern-Launcher`
 5. Запустите лаунчер установки: `chmod +x install.sh && ./install.sh` and choose what you wanna install
 6. После завершения установки, запустите лаунчер следующей командой: `chmod +x launcher.sh && ./launcher.sh`
@@ -353,7 +353,7 @@ SillyTavern сохраняет ключи от ваших API в файле `sec
 
 <!-- LINK GROUP -->
 [back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square
-[cover]: https://github.com/SillyTavern/SillyTavern/assets/18619528/c2be4c3f-aada-4f64-87a3-ae35a68b61a4
+[cover]: https://github.com/halfaipg/SillyTavern/assets/18619528/c2be4c3f-aada-4f64-87a3-ae35a68b61a4
 [discord-link]: https://discord.gg/sillytavern
 [discord-shield]: https://img.shields.io/discord/1100685673633153084?color=5865F2&label=discord&labelColor=black&logo=discord&logoColor=white&style=flat-square
 [discord-shield-badge]: https://img.shields.io/discord/1100685673633153084?color=5865F2&label=discord&labelColor=black&logo=discord&logoColor=white&style=for-the-badge
